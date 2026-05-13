@@ -1,2 +1,2 @@
 # alurabooks
-Projeto responsivo desenvolvido com HTML5 e CSS3 utilizando a abordagem mobile-first. Criado durante os cursos da Alura para praticar responsividade, organização de layouts e boas práticas de desenvolvimento frontend.
+Responsive web project built with HTML5 and CSS3 using the mobile-first approach. Developed during courses at Alura to practice responsive design, layout organization, and frontend development best practices.
